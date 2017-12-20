@@ -1,0 +1,6 @@
+'no':
+  activerecord:
+      errors:
+        template:
+          header: "kunne ikke lagre %{model} på grunn av %{count} feil."
+          body: "det oppstod problemer i følgende felt:"
