@@ -1,3 +1,8 @@
 "no":
-  users:
-    foo: bar_no
+  formtastic:
+    titles:
+      general: Generelt
+      image: Bilde
+    hints:
+      image:
+        tagstring: "Merkelapper må være separert med ', ', f.ex 'lapp1, lapp2, lapp3'"
