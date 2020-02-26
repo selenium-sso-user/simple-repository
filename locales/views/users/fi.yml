@@ -1,8 +1,8 @@
 fi:
   formtastic:
     titles:
-      general: General
-      image: Image
+      general: dg df gdf g
+      image: fg df gd f
     hints:
       image:
-        tagstring: "Tags need to be separated by ', ', e.g. 'tag1, tag2, tag3'"
+        tagstring: " fdg df gdf gdf g"
