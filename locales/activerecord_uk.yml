@@ -1,0 +1,6 @@
+uk:
+  activerecord:
+    errors:
+      template:
+        header: "Could not save %{model} beause %{count} is wrong."
+        body: "problems arose because of the following fields:"
