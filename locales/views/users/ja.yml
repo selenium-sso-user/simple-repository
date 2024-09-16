@@ -1,0 +1,8 @@
+ja:
+  formtastic:
+    titles:
+      general: ssdf sd fsd f
+      image: ' adsf sadf '
+    hints:
+      image:
+        tagstring: " sdafsad fasd fasdf"

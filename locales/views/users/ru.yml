@@ -1,0 +1,8 @@
+ru:
+  formtastic:
+    titles:
+      general: Общие положения
+      image: Изображение
+    hints:
+      image:
+        tagstring: "Теги должны быть разделены по ', например 'tag1, tag2, tag3'"

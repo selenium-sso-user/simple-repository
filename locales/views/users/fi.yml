@@ -1,0 +1,8 @@
+fi:
+  formtastic:
+    titles:
+      general: dg df gdf g
+      image: fg df gd f
+    hints:
+      image:
+        tagstring: " fdg df gdf gdf g"

@@ -1,0 +1,8 @@
+el:
+  formtastic:
+    titles:
+      general: dadasd
+      image: adsasdasd
+    hints:
+      image:
+        tagstring: "dasd asda s"
