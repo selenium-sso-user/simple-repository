@@ -1,0 +1,8 @@
+de:
+  formtastic:
+    titles:
+      general: Allgemein
+      image: Bild
+    hints:
+      image:
+        tagstring: "Tags müssen durch ', ', z.B. 'tag1, tag2, tag3' getrennt werden"
